@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "208222424836",
+    "firebase_url": "https://qr-code-reader-and-creator.firebaseio.com",
+    "project_id": "qr-code-reader-and-creator",
+    "storage_bucket": "qr-code-reader-and-creator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208222424836:android:2d89926b1edf03a8828a51",
+        "android_client_info": {
+          "package_name": "com.renan.createandreadqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208222424836-eb3amr4ajfqbb151s179296vrosvdebk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-NLXbqa7XCTd4-YRtEkL6sU1ftVYDnfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208222424836-eb3amr4ajfqbb151s179296vrosvdebk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
